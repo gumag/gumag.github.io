@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+    
+  - title: "Contribute"
+    url: /contribute/
+    
+  - title: "DMCA"
+    url: /dmca/
