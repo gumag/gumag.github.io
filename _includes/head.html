@@ -6,9 +6,13 @@
   {% include google-tag-manager.html %}
 {% endif %}
 
-{% if site.adsense_page_level_ads %}
-  {% include adsense_page_level_ads.html %}
-{% endif %}
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1307838669861743",
+    enable_page_level_ads: true
+  });
+</script>
 
 {% if site.facebook.fb_page_id %}
   <meta property="fb:pages" content="{{ site.facebook.fb_page_id }}" />
