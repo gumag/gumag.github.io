@@ -10,7 +10,7 @@ locale                   : "en_US"
 title                    : Guidance Magazine
 title_separator          : "-"
 name                     : Guidance Magazine
-description              : Guidance to the straight path
+description              : Seeking the straight path
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
