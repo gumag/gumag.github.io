@@ -171,8 +171,8 @@ defaults:
       comments: false
       share: true
       related: true
-      # Set it to false in each post where u inserted the bottom ad by hand
-      insert_3rd_ad: true
+      amazon_affiliate_disclaimer: false
+      insert_3rd_ad: true      # Set this to false in posts where u inserted the bottom ad by hand
   # _pages
   - scope:
       path: ""

@@ -1,46 +1,29 @@
 ---
 sources: "fb.com/WhyIEmbracedIslam1/photos/a.1747767895436435.1073741828.1747654488781109/1901960960017127/?type=3"
 
-description: ""
+description: "why do I have to pray to Jesus to forgive my sins in order to get to God?"
 
-title: ""
+title: "I Grew Up Singing Songs Praising Jesus"
 
-og_image: ""
+og_image: "autumn-sahar.jpg"
 
 header:
-  image:  ""
-  teaser: ""
-
-author_profile: false
+  image:  "autumn-sahar.jpg"
+  teaser: "autumn-sahar.jpg"
+  
 ---
 
-<p>
-My name is Autumn I'm also known as Sahar! I was born August 17,1983 In Bryan Ohio, Born to my single mother  Debbie Clauson. I grew up most of my life in Ohio I was a raised Christian in the Church of Christ, I always went to church with my mom, I grew up singing songs praising Jesus known to me then as the Son of God and praising him for dying for our sin. I really enjoyed those times going to church going to youth groups, camps among other Christian teens and children learning about the word of God!
-</p>
 
-<p>
-Being raised Christian was easy I could do whatever I want and all I needed to do is pray to Jesus to forgive my sins! But something that I never understood Is why do I have to pray to Jesus to forgive my sins in order to get to God? I remember asking my mom and other people, and they would tell me you cannot question what God says you have to accept it women are not allowed to speak out in the church during services so I never asked anymore after that but there was always that wonder of why and so many other questions I had to ask but I wasn't allowed to ask and when I did ask I was left more confused before I asked, Like where did God come from?, Why do I have to Pray to Jesus in order to get to God? Why can't I talk to him directly? Why would someone else pay for my sins that I committed, and most of all how does God die? And God, Jesus and holy spirit as being one?.
-</p>
+My name is Autumn I'm also known as Sahar! I was born August 17,1983 In Bryan Ohio, Born to my single mother Debbie Clauson. I grew up most of my life in Ohio I was a raised Christian in the Church of Christ, I always went to church with my mom, I grew up singing songs praising Jesus known to me then as the Son of God and praising him for dying for our sin. I really enjoyed those times going to church going to youth groups, camps among other Christian teens and children learning about the word of God!
 
-<p>
+Being raised Christian was easy I could do whatever I want and all I needed to do is pray to Jesus to forgive my sins! But something that I never understood is why do I have to pray to Jesus to forgive my sins in order to get to God? I remember asking my mom and other people, and they would tell me you cannot question what God says you have to accept it women are not allowed to speak out in the church during services so I never asked anymore after that but there was always that wonder of why and so many other questions I had to ask but I wasn't allowed to ask and when I did ask I was left more confused before I asked, Like where did God come from?, Why do I have to Pray to Jesus in order to get to God? Why can't I talk to him directly? Why would someone else pay for my sins that I committed, and most of all how does God die? And God, Jesus and holy spirit as being one?.
+
 As I got older my independence grew and choosing my own life style came with it! I was learning about different things in cultures, religion, life style, politics. And I was very curious as to where I fit in and what made sense! So I started with Religion. I never knew there were so many different religions but I thought Jesus was a Jew so I will start with learning about that. And thought Is Autumn a Jew? But when I asked other Jews about Judaism and how I can become a Jew they told me I could not I had to be born a Jew so I then knew that Autumn was not meant to be a Jew.
-</p>
 
-<p>
 I then got exposed to other beliefs such as Satanic or Wicca. I was drawn to it but didn't know its dangers. A friend of mine I went to school with was into Wicca and satanic worship and she had what they called the Satanic bible. As I read from it I was curious to know more. I unfortunately cannot remember what I read and really don't want to remember. All I remember is going to sleep and seeing a dark shadow in my closet telling me to come to him, and my friend told me that It was Satan telling me to come to him. After that I had no desire to learn more about religion.
-</p>
 
-<p>
 In the year of 2001 I became pretty distant and not sure what to do with my life. I worked, went to school came home and that was pretty much it. I watched my sisters and tried to help my mom as much as I could. I felt that I wasn't going anywhere, in sorting out what type of life am I going to live!  I suddenly started to have weird dreams that I didn't know what they meant I then had a dream. I was standing in front of a black cube and a man had come to me and said I want to invite you to Islam, after that dream I ignored it until September 11th happened. After that I remembered the dream and was like I don't want to be a part of a religion that kills innocent people I was planning to go into the U.S. Army  I had already taking my tests to join all I needed to do is take my final test and sign on the dotted line and I was in after 9/11 It was the encouragment ! then at work one day I had become friends with a person who was from Iran I didn't care much of him because of what I was seeing and hearing on T.V. and I remember him saying don't believe everything you hear on the T.V. it's not what it always seems! And I remember saying to him “of course you would say that your one of them”. After 9/11 I kept having dreams about Islam things I had no idea what they were about I tried to ignore them but I couldn't! So I decided ok the media is saying Islam is so horrible and I wanted to see what was so horrible about this religion! So I finally had access to a computer at school and my mom had gotten us a computer for the home so I went to chat rooms asking about Islam and I remember thinking to myself  I'm going to be a good Christian and lead Muslims to Christianity! But when it came to debates I could never answer their questions but they were able to answer all the questions I had as a Christian from explaining to me that only Allah can forgive your sins not a man and remember him asking me how does God die?!  after these talks I became confused on what to believe because all I knew was what I grew up on learning in Christianity.
-</p>
 
-<p>
 I had kept getting these dreams about Islam and they just would not go away and I knew that Islam was not what it appeared to be talked about on the T.V. 1 year later after 9.11  on September 12th 2002 I remember it was at night and I was in a chat room on Aol at the time it was called Koran and I remember saying I want to become Muslim but I don't know what to do. And a woman had messaged me and said if you want to become Muslim I can help you and said I need ur number so that I can call you and have the Iman talk with you and I said ok.  I gave her my number my heart beat so heavily waiting for her call and she called me and said this is the Imam he will talk to you from here and he explained to me the 5 pillars of Islam and what is expected of me to be a Muslim and asked me do you still believe and want to be Muslim, and I said Yes. And he said to repeat after me “Ash hadu lailaha Illallah wa ashadu ana muhamadan rasullilah” and then had me say it again n English “I bear witness that there is no God but God and Muhammad is his messenger” and he then after that had said to me sister you are now Muslim and from here on out you have no sins you are clean as the day you are born and I suggest you to take a shower and sleep! I did as he advised when I had slept I had another dream that night this time I was in front of the same black cube I had dreamed of before and the man i had seen in the dream approached me and smiled to me masha'allah sister welcome after that dream I had woke up and I had felt as if something had lifted from me I felt so different and at peace.
-</p>
 
-<p>
 Ever since that day I have studied so hard and read and learned so much on how much dedication and commitment it takes to be a Muslim. Throughout the years I have met so many different people from different countries that have helped me become the person I am today.  Islam saved my life it helped me respect my self, it helped me to respect my mother, it stopped me from drinking so much, it stopped me from so many things that could have easily ruined my life I am so grateful that Allah chose me and guided me to Islam!
-</p>
-
-
-
