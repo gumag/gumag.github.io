@@ -1,5 +1,5 @@
 ---
-sources: "fb.com/WhyIEmbracedIslam1/photos/a.1747767895436435.1073741828.1747654488781109/1901960960017127/?type=3"
+sources: "fb.com/WhyIEmbracedIslam1/photos/a.1747767895436435.1073741828.1747654488781109/1901960960017127"
 
 description: "why do I have to pray to Jesus to forgive my sins in order to get to God?"
 
