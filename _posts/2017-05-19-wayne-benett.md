@@ -11,11 +11,11 @@ title2: "21 young Americans accepted Islam at his hands"
 
 date: May 19, 2017
 
-og_image:
+og_image: "sailor.jpg"
 
 header:
-  image:
-  teaser:
+  image:  "sailor.jpg"
+  teaser: "sailor.jpg"
   
 ---
 
