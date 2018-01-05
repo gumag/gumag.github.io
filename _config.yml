@@ -59,9 +59,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "custom"
+  provider               : "google-global-site-tag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : #UA-99561385-1
+    tracking_id          : UA-112033408-1  # hananezegggmail. old was UA-99561385-1
     tagmngr_container_id : 
 
 # Google AdSense
