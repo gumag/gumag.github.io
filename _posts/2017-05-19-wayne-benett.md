@@ -5,7 +5,7 @@ sources: "alukah.net/world_muslims/0/74499/"
 
 description: "He was addicted to drugs and joined gangs. Then God opened his heart to Islam"
 
-title: The story of Wayne Bennett
+title: Wayne Bennett
 
 title2: "21 young Americans accepted Islam at his hands"
 

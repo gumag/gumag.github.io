@@ -1,7 +1,7 @@
 ---
 sources: "alukah.net/translations/0/99557/"
 
-title: "The Story of Jeffrey Lang, Professor of Mathematics at the University of Kansas"
+title: "Jeffrey Lang, Professor of Mathematics at the University of Kansas"
 
 description: ""
 
