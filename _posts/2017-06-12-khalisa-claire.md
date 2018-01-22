@@ -25,6 +25,8 @@ So I went home and told my step mom and dad I can't eat. They asked why? I said 
 
 After I left secondary school I was lost, I knew I wanted to be Muslim and my step mom and dad never had a problem with that, but I didn't know what to do. I never knew that we can revert or convert to Islam. I thought you have to be born muslim to be one. I had no one to help me with questions and answers I needed. 
 
+{% include ads/ftxt1.html %}
+
 Anyway when I left school and lost my way, I was young and silly, but I followed the Muslim way, never showed too much of my body, never went clubbing, pubs etc, I was good. At a young age I met my husband and at the age of 18 we married. He was born Muslim but never got taught the right way. We got married and we had a daughter. We both wanted to learn about Islam together to teach our daughter. We studied into it then one year ago we both took our shahada and had an Asian wedding, and now we are Muslims Alhamdulillah.
 
 Allah showed me the path I have been searching for my whole life! Why did I become Muslim? Let me tell you sincerely that I became a Muslim without even noticing it myself! Islam has always been inside me but I didn't know. I never found my real mother, and I've always felt left out in life but Alhamdulillah since I have became Muslim I have gained a lot of brothers and sisters!
