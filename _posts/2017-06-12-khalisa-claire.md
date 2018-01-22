@@ -5,13 +5,13 @@ sources: "https://web.facebook.com/iconverttoislam/photos/a.215923145123320.5018
 
 description: "I knew something was up there in the sky but never understood and was confused"
 
-title: "I Thought You Have to be Born Muslim to be a Muslim. "
+title: "I Thought You Have to be Born Muslim to be a Muslim"
 
-og_image: https://1.bp.blogspot.com/-rohhv4pbK8w/WUBQBnCSY0I/AAAAAAAACo4/ITsvqwro-oQP64xalJfy3lHY2XrjJ20ygCLcBGAs/s1600/khalisa.jpg
+og_image: khalisa.jpg
 
 header:
-  image:  https://1.bp.blogspot.com/-rohhv4pbK8w/WUBQBnCSY0I/AAAAAAAACo4/ITsvqwro-oQP64xalJfy3lHY2XrjJ20ygCLcBGAs/s1600/khalisa.jpg
-  teaser: https://1.bp.blogspot.com/-rohhv4pbK8w/WUBQBnCSY0I/AAAAAAAACo4/ITsvqwro-oQP64xalJfy3lHY2XrjJ20ygCLcBGAs/s1600/khalisa.jpg
+  image:  khalisa.jpg
+  teaser: khalisa.jpg
 
 ---
 
