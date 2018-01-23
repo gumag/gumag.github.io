@@ -25,6 +25,8 @@ Marcela speaks with confidence and character when asked about her religion. But 
 
 "I am separated, I was a very young mom and I always said in my life that everything was very difficult. I had a time when I think I was missing God, so I started looking for answers. I started studying religions. I never understood the trinity, I did not understand Jesus as God, so Islam made sense," she says.
 
+{% include ads/rightbar.html %}
+
 Although she found negativity on the part of her family, friends and even other Muslims with whom she spoke on the networks, Marcela was sure that it was what she needed to achieve a change. She was persistent, continued to investigate and took as a guide several YouTube channels such as 'Dawah Addict', dedicated to guiding people who are beginning in this religion.
 
 "Then I found on Facebook a group of Muslims in Latin America. There were some people in Bogota and they invited me to the mosque and I started the more formal process," she says.

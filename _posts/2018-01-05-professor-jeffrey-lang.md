@@ -23,6 +23,8 @@ After a long time of bitter struggle he was guided to Islam, which embraced his 
 
 "Like many children of the 1960s and 1970s, I had a lot of questions about the religious, political and social values ​​of the time," he says. "I felt a rebelling against all those values ​​that the community sanctifies, including those of Catholic Christianity."
 
+{% include ads/rightbar.html %}
+
 Dr. Jeffrey Lang later that these questions led him to a period of atheism, before being guided to Islam, which guided him to the facts he was looking for about God and the universe.
 
 Islam in which he found a statement of the truth of the Lord - the Almighty - where he found the lifeline through some Muslim friends, when he was a lecturer at the University of San Francisco.
