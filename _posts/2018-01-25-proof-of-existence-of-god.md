@@ -6,15 +6,15 @@ title: "Mathematicians Prove Existence of God: Kurt Gödel Formula"
 
 description: "Mathematician Kurt Gödel's complicated formula has just been verified by two scientists as proof of God's existence"
 
-og_image: ""
+og_image: proof-of-god.jpg
 
 header:
-  image:  ""
-  teaser: ""
+  image:  proof-of-god.jpg
+  teaser: proof-of-god.jpg
   
 ---
 
-By Tobias Hürter
+By Tobias Von Hürter
 
 A being exists that has all the positive qualities. This was proved by legendary mathematician Kurt Gödel through a complicated formula. Two scientists have now verified that his proof of God is valid.
 
@@ -28,7 +28,7 @@ Should mathematicians believe in God and theologians study formal logic? Even G�
 
 ## What is God anyway?
 
-The proof is an extremely inaccessible formula structure. Godel formulated it in second-order modal logic- a language foreign to most mathematicians. In this exotic language of expression Godel sought to find sufficient conditions for the existence of God. But what is God, logically speaking? Godel defined him as a being that combines all the positive qualities. And what is a positive quality? Godel did not say much about that. He gave only two examples of positive qualities: to be God, and necessarily to exist. He also postulated that each property is either positive or its opposite. First, he proved that God may exist - and finally, that God necessarily exists.
+The proof is an extremely inaccessible formula structure. Godel formulated it in second-order modal logic - a language foreign to most mathematicians. In this exotic language of expression Godel sought to find sufficient conditions for the existence of God. But what is God, logically speaking? Godel defined him as a being that combines all the positive qualities. And what is a positive quality? Godel did not say much about that. He gave only two examples of positive qualities: to be God, and necessarily to exist. He also postulated that each property is either positive or its opposite. First, he proved that God may exist - and finally, that God necessarily exists.
 
 However, Gödel's argument was not completely complete. He did not explicitly write down all of his background assumptions and shortened many in a tedious section with daring mental leaps. Only for that reason did his proof fit easily on a notebook page. With their MacBook Benzmüller and Woltzenlogel have now filled those gaps. The computer carried out Godel's proof largely independently, only in two places, the scientists had to help him a little. "In perhaps three or four years, computers will be able to do it all by themselves," forecasts Benzmüller. The proof of God's proof is almost 300 lines long.
 
