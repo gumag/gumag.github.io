@@ -6,11 +6,11 @@ title: "Mathematicians Prove Existence of God: Kurt Godel Formula"
 
 description: "Mathematician Kurt Godel's complicated formula has just been verified by two scientists as proof of God's existence"
 
-og_image: proof-of-god.jpg
+og_image: "proof-of-god.jpg"
 
 header:
-  image:  proof-of-god.jpg
-  teaser: proof-of-god.jpg
+  image:  "proof-of-god.jpg"
+  teaser: "proof-of-god.jpg"
   
 ---
 
