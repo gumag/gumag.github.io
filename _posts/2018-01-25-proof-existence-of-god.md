@@ -2,7 +2,7 @@
 
 sources: "spiegel.de/wissenschaft/mensch/formel-von-kurt-goedel-mathematiker-bestaetigen-gottesbeweis-a-920455.html"
 
-title: "Mathematicians Prove Existence of God: Kurt Godel Formula"
+title: "German Mathematicians Prove Existence of God Using Kurt Godel Formula"
 
 description: "Mathematician Kurt Godel's complicated formula has just been verified by two scientists as proof of God's existence"
 
