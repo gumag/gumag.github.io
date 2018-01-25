@@ -44,21 +44,23 @@ layout: default
         {% if page.link %}
           <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>
         {% endif %}
-		
+
+		{% if page.insert_3rd_ad %}{% include ads/ttaliaftxt.html %}{% endif %}
+
 		{% if page.share %}{% include social-share.html %}{% endif %}
-		
+
 		<br>
-		
+
 	  </section>
-	  
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         <!-- {% include page__taxonomy.html %} -->
       </footer>
-      
+
     </div>
-    
+
   </article>
 </div>
