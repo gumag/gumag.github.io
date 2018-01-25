@@ -8,22 +8,20 @@ description: ""
 og_image: "jeffrey-lang.jpg"
 
 header:
-  image: "jeffrey-lang.jpg"
+  image:  "jeffrey-lang.jpg"
   teaser: "jeffrey-lang.jpg"
   
 ---
 
-It is the Holy Quran, the word of our Lord Almighty, which God made a guidance and healing.
-
-Professor Jeffrey Lang, a professor of mathematics at the University of Kansas, was born to a Christian Catholic family. He tells us the story of his Islam, where God took him from Catholicism to Islam, from idolatry and polytheism to Tawheed.
+Jeffrey Lang, a professor of mathematics at the University of Kansas, was born to a Christian Catholic family. He tells us the story of his coming to Islam, where God took him from Catholicism to Islam, from idolatry and polytheism to Tawheed.
 
 He spent the first eighteen years of his life between Roman Catholic schools, a journey that accumulated a great deal of questions about God and religion that Christianity was not able to answer for him. This led him directly to atheism and a conflict between his unsatisfied spiritual needs and the surrounding Christian environment. This increased his perplexity and loging to guidance.
+
+{% include ads/ftxt1.html %}
 
 After a long time of bitter struggle he was guided to Islam, which embraced his troubled soul and satisfied his spiritual needs with reasonable ideas that can be accepted by a man of mathematics and numbers and theories.
 
 "Like many children of the 1960s and 1970s, I had a lot of questions about the religious, political and social values ​​of the time," he says. "I felt a rebelling against all those values ​​that the community sanctifies, including those of Catholic Christianity."
-
-{% include ads/rightbar.html %}
 
 Dr. Jeffrey Lang later that these questions led him to a period of atheism, before being guided to Islam, which guided him to the facts he was looking for about God and the universe.
 
@@ -33,9 +31,11 @@ He threw questions on his colleagues, who marveled at the abundance of answers t
 
 The d. Jerry met with the Saudi student Mahmoud Kandil, who gave him a copy of the Koran and some Islamic books, and that this had a significant impact on his journey to Islam.
 
-It reminds us d. Jeffrey said that as soon as he read the Koran he found himself rushing to the mosque of the university Muslim surrendering.
+It reminds us Dr Jeffrey said that as soon as he read the Koran he found himself rushing to the mosque of the university surrendering to God.
 
-And confirms that he was finding answers to all the questions in question, but that what is going on in his mind in the evening is an answer in the morning, as if the Koran read his ideas and quick answer, he found himself and achieved what was looking for spiritual satisfaction.
+{% include ads/ftxt2.html %}
+
+He was finding answers to all the questions he had, but that what is going on in his mind in the evening is an answer in the morning, as if the Koran read his ideas and quick answer, he found himself and achieved what was looking for spiritual satisfaction.
 
 And confirms d. Jeffrey, for his commitment to the teachings of Islam and perseverance on the five prayers, especially Fajr prayer, which is considered to be one of the most beautiful and best worship of Islam, which says in it: "Feel as if you moved from this world and contacted the world of angels;
 
@@ -48,6 +48,8 @@ He reads the Koran and saves the translation of its meanings, and the statement 
 Thus the case of d. Jeffrey with the Koran , where he stressed that reading it provides a great deal of comfort and strength to face the difficult times.
 
 In a statement of the superiority of Islam to other boredom confirms d. It is difficult for a mind that accepts only the mental truths to believe in other religions; it is to rely on faith in non-rational Muslims, but Islam is characterized by a discourse of reason.
+
+{% include ads/ftxt3.html %}
 
 He tells us about his current life after Islam, and notes that he is the advisor of the Muslim Student Association, through which he represents the channel of communication between Muslim students and the university administration.
 
