@@ -21,6 +21,8 @@ refuge to early Muslims who were fleeing persecution from the
 pagans of Makkah. They were advised to go there by the Prophet Muhammad
 himself (peace be upon him).
 
+{% include ads/ftxt1.html %}
+
 The following is how Muslims view Jesus (peace be upon him).
 
 ### 1\. One cannot be a Muslim without believing in Jesus
@@ -42,6 +44,8 @@ Muslims also believe Jesus was born miraculously without a father to the
 Virgin Mary. His mother is also respected and venerated across the world by
 Muslims and she is known to have been a pious and devout person. An entire
 chapter of the Quran is named after her.
+
+{% include ads/ftxt2.html %}
 
 ### 3\. He performed miracles
 
@@ -65,6 +69,8 @@ Muslims believe he was one of the greatest prophets sent by God but he was not
 divine. Muslims do not believe he was the son of God or God incarnate, they
 believe he was a human being who was given the task of conveying the message
 to the people and to preach that there is only One God.
+
+{% include ads/ftxt3.html %}
 
 ### 5\. He was not crucified
 
