@@ -22,8 +22,6 @@ Then by the time I reached the UK, I think I was a protestant Christian by
 then... I was in church services committee at school, singing in the choir and
 everything else.
 
-{% include ads/ftxt1.html %}
-
 The thing that attracted me most to
 Islam is that it makes sense, not only overall but at that specific point
 in time, it just made perfect sense to me.
@@ -47,8 +45,6 @@ extreme there; it's got to be somewhere in the middle.
 I'm quite a stubborn guy and when someone says "don't do something" I find 99
 ways of trying to prove them wrong. So I sat down and I wanted to find out
 what the religion was actually about.
-
-{% include ads/ftxt2.html %}
 
 What I found most interesting is that there was never really
 pressure to become Muslim, it was just a whole lot
@@ -74,8 +70,6 @@ My biggest concern back then was how will my parents take it? How will my
 friends take it? How everybody that I know, including my roommate at that
 time, who was actually one of the biggest opponents of me joining Islam, how
 would he take it?
-
-{% include ads/ftxt3.html %}
 
 All the friends that I've had previously who found out about it,
 the real ones stayed, the flaky ones that I was concerned about flaked off.
@@ -107,3 +101,4 @@ always there to guide you... they want to help you.
 Remember, if you get someone to accept Islam and you are their door to Islam,
 you get so many good deeds.
 
+<iframe width="683" height="348" src="https://www.youtube.com/embed/NyR2sHDohTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
