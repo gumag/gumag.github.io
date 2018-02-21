@@ -22,8 +22,6 @@ The last doubts are dispelled: God actually exists. A computer has proven it wit
 
 Benzmuller set his computer down to a sequence of formulas that the legendary Austrian mathematician Kurt Godel first scribbled on a few loose sheets of paper around the year 1941 and then refined it further in the following decades. The computer did find Godel's proof valid. Benzmuller and his Viennese colleague Bruno Woltzenlogel Paleo presented a first paper in which they announced their results on the preprint server arxiv.org . The existence of God can henceforth be regarded as a secure logical theorem.
 
-{% include ads/ftxt1.html %}
-
 Should mathematicians believe in God and theologians study formal logic? Even Godel himself was obviously not very fond of it. For decades he kept his proof of God secret. When he worked it out, he had fled from the Nazis from Vienna to the elite American university town of Princeton. There, the self-confessed Christian Godel walked regularly with Albert Einstein through the parks. Einstein also liked to speculate about God. It was not until 1970, when his health deteriorated so much that he suspected his death, that he broke his silence. He told his friend Oskar Morgenstern that although he was "satisfied" with his proof, he did not want to publish it for fear of being misunderstood. He showed proof to one of his students, Dana Scott. Scott wrote about it and made a presentation at Princeton. So Godel's proof of God still found its way out into the world.
 
 ## What is God anyway?
@@ -33,8 +31,6 @@ The proof is an extremely inaccessible formula structure. Godel formulated it in
 However, Godel's argument was not completely complete. He did not explicitly write down all of his background assumptions and shortened many in a tedious section with daring mental leaps. Only for that reason did his proof fit easily on a notebook page. With their MacBook Benzmuller and Woltzenlogel have now filled those gaps. The computer carried out Godel's proof largely independently, only in two places, the scientists had to help him a little. "In perhaps three or four years, computers will be able to do it all by themselves," forecasts Benzmuller. The proof of God's proof is almost 300 lines long.
 
 Kurt Godel is hardly known to the general public. But among scientists he enjoys a similarly high reputation as Albert Einstein. "The greatest logician since Aristotle" called him the philosopher Rebecca Goldstein. However, Godel was not born to be a star. Long before the word "nerd" he was the epitome of the nerd: slender, silent, almost finger-thick glasses, highly intelligent, quite lifeless.
-
-{% include ads/ftxt2.html %}
 
 His biography also indicates that he lived on the verge of paranoia. His last decades were spent in fear of being poisoned - so frightened that he finally ate only what his wife Adele, a former nightclub dancer, cooked for him and tasted. When a stroke put Adele out of action, she had to watch helplessly as her brilliant husband starved to death.
 

@@ -19,15 +19,11 @@ I am Khalisa, was known as Claire. I was born into an English family with no bel
 
 Everytime i went there i remember having fun with friends (this was the first time I heard the word GOD), but all of a sudden it stopped, I never went back to Sunday school (as my dad wasn't a believer ) so it never got mentioned again. Then at the age of 10 my dad married an British woman. Even though she was an atheist she always understood me. Every night I would pray to someone in the sky asking for my mom. She left when i was 6 months old, i never got to see her face. I needed her and I didn't understand what I had done wrong. I knew something was up there in the sky but never understood and was confused.
 
-{% include ads/ftxt1.html %}
-
 At the age of 12 my step mom and my dad put me in a mixed secondary school in Birmingham and all my friends were Muslim. They used to wear scarfs and I used to ask so much questions. I was so intrested in Muslims and Islam I just kept asking questions and questions. Then one month my Muslim friends would not eat at lunch time thay used to take a brown food bag home with them. I decided I would do it and they told me that we can't eat till later because it was Ramadan and we needed to empathize with the poor. 
 
 So I went home and told my step mom and dad I can't eat. They asked why? I said it's Ramadan and you can't eat it's not fair on the poor. Since that day I just started doing everything my Muslim friends did even though I never knew reasons why thay were doing it. From that day onwards my step mom and dad always cooked me something different to my brothers and sister because of the rules on halal eating. 
 
 After I left secondary school I was lost, I knew I wanted to be Muslim and my step mom and dad never had a problem with that, but I didn't know what to do. I never knew that we can revert or convert to Islam. I thought you have to be born muslim to be one. I had no one to help me with questions and answers I needed.
-
-{% include ads/ftxt2.html %}
 
 Anyway when I left school and lost my way, I was young and silly, but I followed the Muslim way, never showed too much of my body, never went clubbing, pubs etc, I was good. At a young age I met my husband and at the age of 18 we married. He was born Muslim but never got taught the right way. We got married and we had a daughter. We both wanted to learn about Islam together to teach our daughter. We studied into it then one year ago we both took our shahada and had an Asian wedding, and now we are Muslims Alhamdulillah.
 

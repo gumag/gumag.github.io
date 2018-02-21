@@ -21,8 +21,6 @@ header:
 
 The story of Wayne Bennett is a vivid embodiment of one of Prophet Muhammad's hadeeths, where he confirms that when God wants something He makes easy ways for it. This young man was born and raised in a Christian environment, and moved between churches in search for psychological stability. At one point in his life he was addicted to drugs and joined gangs. Then God opened his heart to Islam, and sent his way someone who showed him the light of guidance. Suffice to say that 21 young Americans accepted Islam at his hands.
 
-{% include ads/ftxt1.html %}
-
 Here is an interview with Mr Wayne Bennett:
 
 **Tell us about yourself?**
@@ -44,8 +42,6 @@ The captain was a native Indian, from the indigenous people of America. He once 
 
 It is a beautiful book and I enjoyed it a lot. After I finished reading this book, I thought: Yes, Buddhism is what I'm looking for. That is because my meditations started to improve, my way of thinking more mature, I stayed away from alcohol. I was there on board the ship seeing God's nature, and really enjoying it and I thought: "It's really an amazing book."
 
-{% include ads/ftxt2.html %}
-
 **What happened after you liked this book?**
 
 I wanted to return the book to the captain but he gave it to me as a gift, and then asked me: Do you know Malcolm X? I said: No. He said: No problem, this is a picture of Malcolm X, and then gave me another book also as a gift. Reading this book really puzzled my mind, and when I reached the chapter that speaks about when Malcolm X went to perform Hajj, and how it helped him learn the true Islam. That's when I realized that this is what I was looking for and that I want to become a Muslim, and that I want to live the life of Islam, which has no drugs or gangs. That is really the life I want. Malcolm X talked about brotherhood in Islam, in fact I believed in the existence of God and his oness somewhat. Before reading this book I had no problem that Jesus is God or not, but after reading it the picture became clearer in my mind and everything was put in its proper place.
@@ -62,8 +58,6 @@ It was a blessing from God first, then because of this Sheikh who took me to the
 in the mosque, the muezzin began to recite the adhaan.
 I was in a state of joy that cannot be described, and this Sheikh was telling me about Islam,
 There was a station close to the ship where I was working so I was meeting with him a lot during the day. Every day after 5pm I went to the mosque and one day we were sitting in the mosque and talking. The imam said to me: When do you want to enter Islam? I was surprised by his question and said: I've been praying with you for nearly a month in this mosque, and I know how to read Al Fatihah and you ask me: When do you want to be a Muslim ? He replied: You must say the Shahadah "I certify that there is no God but Allah and that Muhammad is the Messenger of God". This was in 1979.
-
-{% include ads/ftxt3.html %}
 
 **What did you do after the shahadah?**
 

@@ -1,5 +1,5 @@
 ---
-source: "http://ilmfeed.com/6-muslim-beliefs-jesus-every-christian-must-know/"
+source: "ilmfeed.com/6-muslim-beliefs-jesus-every-christian-must-know/"
 
 title: 'Muslim Beliefs About Jesus (peace be upon him)'
 
@@ -12,16 +12,12 @@ header:
   teaser: https://i.ytimg.com/vi/ViKewIp0LMU/maxresdefault.jpg
 
 author_profile: false
-
-amazon_affiliate_disclaimer: false
 ---
 
 Muslims and Christians have much in common. After all, it was the then Christian king of Abyssinia who granted
 refuge to early Muslims who were fleeing persecution from the
 pagans of Makkah. They were advised to go there by the Prophet Muhammad
 himself (peace be upon him).
-
-{% include ads/ftxt1.html %}
 
 The following is how Muslims view Jesus (peace be upon him).
 
@@ -45,8 +41,6 @@ Virgin Mary. His mother is also respected and venerated across the world by
 Muslims and she is known to have been a pious and devout person. An entire
 chapter of the Quran is named after her.
 
-{% include ads/ftxt2.html %}
-
 ### 3\. He performed miracles
 
 Muslims believe Jesus performed many miracles such as creating a bird from
@@ -69,8 +63,6 @@ Muslims believe he was one of the greatest prophets sent by God but he was not
 divine. Muslims do not believe he was the son of God or God incarnate, they
 believe he was a human being who was given the task of conveying the message
 to the people and to preach that there is only One God.
-
-{% include ads/ftxt3.html %}
 
 ### 5\. He was not crucified
 

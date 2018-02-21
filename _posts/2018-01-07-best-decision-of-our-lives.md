@@ -15,15 +15,11 @@ header:
 
 Four lives, four different stories from these Spanish Catholics who decided to abandon the religion of their parents, and embrace a religion practiced by around 1,700,000 Muslims (3.6% of society) currently living in Spain.
 
-{% include ads/ftxt1.html %}
-
 José Ángel, Ana María, Consuelo and Álex are Spanish. Their parents, grandparents and ancestors were baptized Christians, they read the Bible and made communion as good Catholics. They were four fervent believers in Jesus who went to mass and even studied in Catholics schools ... until one day they began to doubt, so much so that they ended up taking the most important decision of their lives: to convert to Islam.
 
 "Converting to Islam was the best decision I have made in my life," says José Ángel in a video, where his four friends agree that this decision changed them completely. Some made new friends, because going out at night to clubs and drinking alcohol was not well seen by their new religion. Others abandoned certain bad habits, such as "smoking hashish" or "screaming at parents", to name a few examples.
 
 All are convinced that their decision, in no case, was forced. They made the decision freely and after a slow process of transformation, which began with doubts about some of Christianity's principles. Alex's friends insisted he was brainwashed, something he always denied. And Ana Maria assures that nobody has forced her or is forcing her to wear the hijab. "It was not imposed by my husband at all. I decided on my own and he asked me if I was sure. I did not have to be a Muslim to marry him, nobody forced me," she says.
-
-{% include ads/ftxt2.html %}
 
 ## More than 20,000 converts
 
