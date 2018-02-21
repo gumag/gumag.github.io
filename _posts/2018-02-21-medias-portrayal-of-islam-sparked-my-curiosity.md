@@ -1,15 +1,15 @@
 ---
-source: 'aboutislam.net/reading-islam/my-journey-to-islam/the-medias-wild-portrayal-of-islam-sparked-my-curiosity'
+source: aboutislam.net/reading-islam/my-journey-to-islam/the-medias-wild-portrayal-of-islam-sparked-my-curiosity
 
-title: 'The Media's Portrayal of Islam Sparked my Curiosity'
+title: "The Media's Portrayal of Islam Sparked my Curiosity"
 
 description: "The Media's Portrayal of Islam after the London terror attacks in sparked my curiosity"
 
-og_image: 'https://i.ytimg.com/vi/NyR2sHDohTQ/hqdefault.jpg'
+og_image: https://i.ytimg.com/vi/NyR2sHDohTQ/hqdefault.jpg
 
 header:
-  image:  'https://i.ytimg.com/vi/NyR2sHDohTQ/hqdefault.jpg'
-  teaser: 'https://i.ytimg.com/vi/NyR2sHDohTQ/hqdefault.jpg'
+  image:  https://i.ytimg.com/vi/NyR2sHDohTQ/hqdefault.jpg
+  teaser: https://i.ytimg.com/vi/NyR2sHDohTQ/hqdefault.jpg
 
 author_profile: false
 ---
