@@ -35,23 +35,21 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-      	{{ content }}
-      	{% if page.yt-video-id %}
-      	  <div class="video-container">
-      	     <iframe src="https://www.youtube.com/embed/{{page.yt-video-id}}?feature=player_detailpage" allowfullscreen></iframe>
-      	  </div>
-      	{% endif %}
+        {{ content }}
+        {% if page.yt-video-id %}
+          <div class="video-container">
+             <iframe src="https://www.youtube.com/embed/{{page.yt-video-id}}?feature=player_detailpage" allowfullscreen></iframe>
+          </div>
+        {% endif %}
         {% if page.link %}
           <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>
         {% endif %}
 
-		{% if page.insert_3rd_ad %}{% include ads/ttaliaftxt.html %}{% endif %}
+        {% if page.share %}{% include social-share.html %}{% endif %}
 
-		{% if page.share %}{% include social-share.html %}{% endif %}
+        <br>
 
-		<br>
-
-	  </section>
+      </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
