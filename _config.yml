@@ -62,7 +62,7 @@ analytics:
   provider               : "google-global-site-tag" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-112869399-1   # it  gad hananezegggmail's UA-112033408-1. old was UA-99561385-1
-    tagmngr_container_id : 
+    tagmngr_container_id : false
 
 # Google AdSense
 google_ad_client         : 
