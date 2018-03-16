@@ -29,7 +29,7 @@ He was amazed at how the faithful respond to Adhan and his curiosity led him
 to look deeper into his own spirituality. Despite being born to parents who
 are both Christian preachers - Malik's family belong to a Christian
 denomination called Jehovah's Witnesses who are known for their door-to-door
-preaching and distribution of Biblical literature - he told Khaleej Times that
+preaching and distribution of Biblical literature - he said that
 he himself wasn't particularly devout.
 
 But he wanted to establish a strong relationship with God. So, he went to the
@@ -40,8 +40,7 @@ Another reason for his spiritual journey was to erase the pervading stereotype
 about Muslims. "Back in my hometown, because of prejudice and ignorance, we
 had this notion that 'Allahu akbar' is a battle cry uttered by someone who is
 about to perform jihad and blow himself up along with innocent people," Malik,
-who is the Dubai administrator of SMPII (Sangguniang Masang Pilipino
-International Inc.), told Khaleej Times.
+who is the Dubai administrator of SMPII (Sangguniang Masang Pilipino International Inc.), said.
 
 "I was wrong. I learned and fully understood that Islam is a religion of peace
 - and I experienced first-hand in Dubai about religious tolerance and how
