@@ -1,9 +1,9 @@
 ---
 source: http://aboutislam.net/reading-islam/my-journey-to-islam/5-converts-stories-may-change-your-perception-of-islam/
 
-title: '3 Converts Share Thier Perspective On Islam'
+title: '3 Converts Share Their Perspective On Islam'
 
-description: 'I discovered that Islam is so bigger and larger than what the media says to us especially western media. So this was the first contact with Islam.'
+description: 'I discovered that Islam is so bigger and larger than what the media says to us'
 
 og_image: converts.jpg
 
