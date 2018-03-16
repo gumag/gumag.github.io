@@ -42,9 +42,7 @@ had this notion that 'Allahu akbar' is a battle cry uttered by someone who is
 about to perform jihad and blow himself up along with innocent people," Malik,
 who is the Dubai administrator of SMPII (Sangguniang Masang Pilipino International Inc.), said.
 
-"I was wrong. I learned and fully understood that Islam is a religion of peace
-- and I experienced first-hand in Dubai about religious tolerance and how
-people of various religions can live in peaceful co-existence," he added.
+"I was wrong. I learned and fully understood that Islam is a religion of peace; and I experienced first-hand in Dubai about religious tolerance and how people of various religions can live in peaceful co-existence," he added.
 
 Malik fervently studied the Holy Quran, attended Islamic studies and even
 emerged on top of his batch during exams on Islam. He fully embraced Islam and
