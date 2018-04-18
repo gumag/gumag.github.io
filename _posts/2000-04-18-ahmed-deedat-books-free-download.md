@@ -13,11 +13,11 @@ header:
 
 ---
 
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/Stories-Of-New-Muslims_Page_004.jpg)
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/ck.jpg) 
 
 **Title:** Combat Kit
 
-**Author:** Ahmed Deedat ****
+**Author:** Ahmed Deedat
 
 **Description:** This all in one Combat Kit removes supercilious, contemptuous
 and disdainful Christians from your homes and puts back the sunshine in your
@@ -26,8 +26,9 @@ doorway. A must have for all Muslims who encounter Bible Thumpers.
 [Dowload Combat Kit](http://www.ipci.co.za/wp-content/uploads/2011/05/Combat-Kit.pdf)
 
 
+---
 
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/ck.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/itbgw.jpg)
 
 **Title:** Is the
 Bible God's Word?
@@ -42,8 +43,9 @@ their very own 'Holy Bible.
 [Download is the Bible God's Word](http://www.ipci.co.za/wp-content/uploads/2011/05/is-the-Bible-Gods-Word.pdf) 
 
 
+---
 
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/itbgw.jpg)
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/wihn.jpg)
 
 **Title:** What is His name?
 
@@ -59,7 +61,9 @@ Australia, etc.
 
 
 
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/wihn.jpg)
+
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/cii.jpg) 
+
 
 **Title:** Christ In Islam
 
@@ -72,9 +76,9 @@ Muslim Qur 'an.
 [Download Christ in Islam](http://www.ipci.co.za/wp-content/uploads/2011/05/Christ-in-Islam.pdf)
 
 
+---
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/cii.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/coc.jpg) 
 
 **Title:**
 Crucifixion or Cruci-Fiction?
@@ -87,10 +91,10 @@ espoused in Chapter 4 Verse 157 that Christ was neither killed nor crucified.'
 
 [Download Crucifixion or Crucifiction](http://www.ipci.co.za/wp-content/uploads/2011/05/Crucifixion-or-Crucifiction.pdf)
 
+---
 
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/coc.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/ror.jpg) 
 
 **Title:** Resurrection or Resuscitation?
 
@@ -106,9 +110,9 @@ the dead?"
 [Download Resurrection or Resuscitation](http://www.ipci.co.za/wp-content/uploads/2011/05/Resurrection-or-Resuscitation.pdf) 
 
 
+---
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/ror.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/wwtsoj.jpg) 
 
 **Title:** What was the Sign of Jonah?
 
@@ -122,10 +126,10 @@ he, Jesus (p.b.u.h.), was the Christ.
 [Download What was the Sign of Jonah](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/What-was-the-Sign-of-Jonah.pdf)
 
 
+---
 
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/wwtsoj.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/wmts.jpg) 
 
 **Title:**
 Who moved the Stone?
@@ -141,11 +145,10 @@ Christians …."
 [Download Who moved the Stone](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Who-moved-the-Stone.pdf) 
 
 
+---
 
 
-
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/wmts.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtg.jpg) 
 
 **Title:** Muhummed (p.b.u.h.) the Greatest
 
@@ -161,9 +164,9 @@ and Easterners, of Christians, Jews and Hindus, and of Scholars and Laypeople
 [Download Muhammed The Greatest](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Muhammed-The-Greatest.pdf) 
 
 
+---
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtg.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtnstc.jpg)
 
 **Title:** Muhummed (p.b.u.h.)  - The 
 Natural Successor to Christ (p.b.u.h.)
@@ -185,10 +188,10 @@ upon him (Muhammed).'
 [Download Muhammed The Natural Successor to Christ](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Muhammed-The-Natural-Successor-to-Christ.pdf) 
 
 
+---
 
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtnstc.jpg)
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/wtbsam.jpg) 
 
 **Title:** What the Bible says about
 Muhummed (p.b.u.h.)
@@ -202,9 +205,9 @@ Mankind.
 [Download What the Bible Says About Muhammed](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/What-the-Bible-Says-About-Muhammed.pdf) 
 
 
+---
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/wtbsam.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/aqtmom.jpg) 
 
 **Title:** Al-Qur 'an - The Miracle of
 Miracles
@@ -217,10 +220,10 @@ Qur'an.
 
 [Download Al-Qur'an - The Miracle of Miracles](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/aqtmom.pdf) 
 
+---
 
 
-
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/aqtmom.jpg) 
+![](http://www.ipci.co.za/wp-content/uploads/2011/05/aaicoc.jpg)
 
 **Title:** Arabs and Israel  - Conflict or
 Conciliation?
@@ -234,7 +237,7 @@ The history of the Jewish and Arab nations respectively;
 The struggles of both nations (Jews and Arabs); and
 That **Islam is Judaism made universal**. Deedat appeal to all of us that the gun is not the answer.
 
-[Download Arabs and Israel - Conflict orConciliation](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Arabs-and-Israel-Conflict-or-Conciliation.pdf) 
+[Download Arabs and Israel - Conflict or Conciliation](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Arabs-and-Israel-Conflict-or-Conciliation.pdf) 
 
 
 
