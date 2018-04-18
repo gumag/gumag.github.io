@@ -78,7 +78,7 @@ Muslim Qur 'an.
 
 ---
 
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/coc.jpg) 
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/coc.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/Crucifixion-or-Crucifiction.pdf)
 
 **Title:**
 Crucifixion or Cruci-Fiction?
@@ -94,7 +94,7 @@ espoused in Chapter 4 Verse 157 that Christ was neither killed nor crucified.'
 ---
 
 
-![](http://www.ipci.co.za/wp-content/uploads/2011/05/ror.jpg) 
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/ror.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/Resurrection-or-Resuscitation.pdf) 
 
 **Title:** Resurrection or Resuscitation?
 
