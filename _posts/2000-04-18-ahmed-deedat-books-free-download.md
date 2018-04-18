@@ -113,7 +113,7 @@ the dead?"
 
 ---
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/wwtsoj.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/What-was-the-Sign-of-Jonah.pdf)
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/wwtsoj.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/What-was-the-Sign-of-Jonah.pdf)
 
 **Title:** What was the Sign of Jonah?
 
@@ -124,13 +124,13 @@ the dead?"
 Pharisees who requested a sign (miracle) from Jesus (p.b.u.h.), to prove that
 he, Jesus (p.b.u.h.), was the Christ.
 
-[Download What was the Sign of Jonah](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/What-was-the-Sign-of-Jonah.pdf)
+[Download What was the Sign of Jonah](http://www.ipci.co.za/wp-content/uploads/2011/05/What-was-the-Sign-of-Jonah.pdf)
 
 
 ---
 
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/wmts.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Who-moved-the-Stone.pdf) 
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/wmts.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/Who-moved-the-Stone.pdf) 
 
 **Title:**
 Who moved the Stone?
@@ -143,13 +143,13 @@ Christians …."
 
 **DR G.M. KARIM - **B.A. (Hons.) (S.A.) B.Sc., B.Ch. (WW)
 
-[Download Who moved the Stone](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Who-moved-the-Stone.pdf) 
+[Download Who moved the Stone](http://www.ipci.co.za/wp-content/uploads/2011/05/Who-moved-the-Stone.pdf) 
 
 
 ---
 
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtg.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Muhammed-The-Greatest.pdf) 
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtg.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/Muhammed-The-Greatest.pdf) 
 
 **Title:** Muhummed (p.b.u.h.) the Greatest
 
@@ -162,12 +162,12 @@ measured in individuals. The books also includes the unbiased and inspiring
 quotations of Soldiers and Civilians, of Critics and Admirers, of Westerners
 and Easterners, of Christians, Jews and Hindus, and of Scholars and Laypeople
 
-[Download Muhammed The Greatest](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Muhammed-The-Greatest.pdf)
+[Download Muhammed The Greatest](http://www.ipci.co.za/wp-content/uploads/2011/05/Muhammed-The-Greatest.pdf)
 
 
 ---
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtnstc.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Muhammed-The-Natural-Successor-to-Christ.pdf)
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/mtnstc.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/Muhammed-The-Natural-Successor-to-Christ.pdf)
 
 **Title:** Muhummed (p.b.u.h.)  - The 
 Natural Successor to Christ (p.b.u.h.)
@@ -186,13 +186,13 @@ These letters, **[s.a.w.]** is an abbreviation for the words  "Sallallahu
 'alaihi wa sallam", which means: 'May the blessings and the peace of Allah be
 upon him (Muhammed).'
 
-[Download Muhammed The Natural Successor to Christ](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Muhammed-The-Natural-Successor-to-Christ.pdf) 
+[Download Muhammed The Natural Successor to Christ](http://www.ipci.co.za/wp-content/uploads/2011/05/Muhammed-The-Natural-Successor-to-Christ.pdf) 
 
 
 ---
 
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/wtbsam.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/What-the-Bible-Says-About-Muhammed.pdf)
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/wtbsam.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/What-the-Bible-Says-About-Muhammed.pdf)
 
 **Title:** What the Bible says about
 Muhummed (p.b.u.h.)
@@ -203,12 +203,12 @@ Muhummed (p.b.u.h.)
 Muhummed (p.b.u.h.), the prophet of Islam, and the Greatest benefactor of
 Mankind.
 
-[Download What the Bible Says About Muhammed](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/What-the-Bible-Says-About-Muhammed.pdf)
+[Download What the Bible Says About Muhammed](http://www.ipci.co.za/wp-content/uploads/2011/05/What-the-Bible-Says-About-Muhammed.pdf)
 
 
 ---
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/aqtmom.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/aqtmom.pdf)
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/aqtmom.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/aqtmom.pdf)
 
 **Title:** Al-Qur 'an - The Miracle of
 Miracles
@@ -219,15 +219,14 @@ Miracles
 the Text, Scope, Infallibility and Authenticity of the Last Testament, Al-
 Qur'an.
 
-[Download Al-Qur'an - The Miracle of Miracles](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/aqtmom.pdf)
+[Download Al-Qur'an - The Miracle of Miracles](https://www.fussilatbd.com/Islamic/Ahmed%20Deedat/Al-Quran-The-Miracle-of-Miracles-Ahmed-Deedat.pdf)
 
 ---
 
 
-[![](http://www.ipci.co.za/wp-content/uploads/2011/05/aaicoc.jpg)](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Arabs-and-Israel-Conflict-or-Conciliation.pdf)
+[![](http://www.ipci.co.za/wp-content/uploads/2011/05/aaicoc.jpg)](http://www.ipci.co.za/wp-content/uploads/2011/05/Arabs-and-Israel-Conflict-or-Conciliation.pdf)
 
-**Title:** Arabs and Israel  - Conflict or
-Conciliation?
+**Title:** Arabs and Israel  - Conflict or Conciliation?
 
 **Author:** Ahmed Deedat
 
@@ -238,7 +237,7 @@ The history of the Jewish and Arab nations respectively;
 The struggles of both nations (Jews and Arabs); and
 That **Islam is Judaism made universal**. Deedat appeal to all of us that the gun is not the answer.
 
-[Download Arabs and Israel - Conflict or Conciliation](http://sandbox.dev.immedia.co.za/ipci/wp-content/uploads/2011/05/Arabs-and-Israel-Conflict-or-Conciliation.pdf)
+[Download Arabs and Israel - Conflict or Conciliation](http://www.ipci.co.za/wp-content/uploads/2011/05/Arabs-and-Israel-Conflict-or-Conciliation.pdf)
 
 
 
