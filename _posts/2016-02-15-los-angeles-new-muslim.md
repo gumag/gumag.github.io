@@ -1,7 +1,7 @@
 ---
 source: "muslimsoftheworld1/photos/a.429739327167009.1073741829.428081383999470/649911998483073"
 
-title: "My Name Was Jennifer, Here is The story of How I Became Muslim"
+title: "Here is The story of How I Became Muslim in Los Angeles"
 title2: "This sweet and kind woman is the reason I pursued Islam"
 
 description: "Kalimah is the reason why I am the better person that I am today"
