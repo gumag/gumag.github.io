@@ -32,4 +32,4 @@ My faith began to restore when I graduated high school and I started wearing hij
 
 Now I’m currently a rising junior in college and majoring in social work. My ultimate dream is to provide more Muslim social services. Many reverts stop practicing or leave Islam completely due to lack of support. This is a huge issue that plagues many Muslim communities across the world. Dawah experts motivate and push people to take their shahadah as if it’s the “finish line”, but in reality it is only the beginning. In fact, declaring the shahadah is the easiest thing ANYONE can do, but sticking to deen and keeping faith is what truly makes someone a Mu’min (believer).
 
-**-Brittany Thorne**
+**By Brittany Thorne**
