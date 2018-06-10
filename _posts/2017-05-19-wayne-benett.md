@@ -24,11 +24,11 @@ Here is an interview with Mr Wayne Bennett:
 
 **Tell us about yourself?**
 
-My Muslim name is Hudhaifah Abdul Rahim, I am from the United States, born in Vildova, a town about two hours drive north of New York. I grew up in a Catholic church, and went to a Catholic school. My father was in the army so we traveled a lot. My family traveled to Japan when I was a teenager. I stayed there for 5 years and practiced karate and martial arts. We left Japan in 1973. We returned to Veldovia, and then things changed. I lived a great part of my life in a residential complex. When my father retired things completely changed for me: I joined gangs where drugs and fights were daily routine especially at night. I wanted to be in those gangs, many youth want to be in a gang and live like criminals.
+My Muslim name is Hudhaifah Abdul Rahim, I am from the United States, born in a town about two hours drive north of New York. I grew up in a Catholic church, and went to a Catholic school. My father was in the army so we traveled a lot. My family traveled to Japan when I was a teenager. I stayed there for 5 years and practiced karate and martial arts. We left Japan in 1973. We returned to our hometown, and then things changed. I lived a great part of my life in a residential complex. When my father retired things completely changed for me: I joined gangs where drugs and fights were daily routine especially at night. I wanted to be in those gangs, many youth want to be in a gang and live like criminals.
 
 **What did you do before Islam?**
 
-I was a drummer and music was important in my life as much as women, drugs and alcohol, but there was always this question in my mind: why do people use drugs, go to bars, and listen to loud music? I believe that there is a void in the human heart, and this void can be filled only with Islam, no doubt, but people try to fill this void with other things like Christianity. But these things can not fill that void; because they aren't true. So people try music, drugs and dangerous sports where a simple mistake can cost a person his life.
+I was a drummer and music was important in my life as much as women, drugs and alcohol, but there was always this question in my mind: why do people use drugs, go to bars, and listen to loud music? I believe that there is a void in the human heart, and this void can be filled only with Islam, no doubt, but people try to fill this void with other things like Christianity. But these things cannot fill that void; because they aren't true. So people try music, drugs and dangerous sports where a simple mistake can cost a person his life.
 
 **What event in your life made a big difference?**
 
@@ -61,13 +61,13 @@ There was a station close to the ship where I was working so I was meeting with 
 **What did you do after the shahadah?**
 
 I called my mom right after I took the shahadah and said "I became Muslim"
-she was shocked and stayed silent for a miniute or two. Then she asked "You became what?". I said "I am now a Muslim"
+she was shocked and stayed silent for a minute or two. Then she asked "You became what?". I said "I am now a Muslim"
 She started to scream and called my father. My father came and picked up the phone. I told him that I had entered Islam. He could not believe it and said, "You seem to be under the influence of drugs." I said, "Dad, I'm not drunk, but I became a Muslim."
 
 **Is there a difference between your life before Islam and your life after Islam?**
 
-I felt the difference between Islam and Christianity. Before Islam I was very social and I was always involved in all activities related to music or dance. Now I wear a dress and put a rag on my head - as they say - and everyone wants to know what happened to me, and what changed me when I was away from them. I told them: I am a Muslim now. I did it because I had to protect myself, so that people know that there has been a change in my life; I will not do a lot of the things I was doing before. At the university a lot of students started avoiding me and would change course whenever they see me outside.
+I felt the difference between Islam and Christianity. Before Islam I was very social and always involved in all activities related to music and dance. Now I wear a dress and put a rag on my head - as they say - and everyone wants to know what happened to me, and what changed me when I was away from them. I told them: I am a Muslim now. I did it because I had to protect myself, so that people know that there has been a change in my life; I will not do a lot of the things I was doing before. At the university a lot of students started avoiding me and would change course whenever they see me outside.
 
-**Did you call for Islam after God guided you?**
+**Did you invite people to Islam?**
 
-I started to adhere to the teachings of Islam, and I realized that the Muslim is a mirror of his religion in front of non-Muslims. Alhamdulillah, Allah used me to guide 21 students from my university to Islam. I remember I was talking to  Islamic preacher Siraj Wahhaj and told him "I think I am not a good enough Muslim; God has guided only 21 men through me." He looked at me in astonishment and said "21? It's a good number". We were going to houses, knocking on doors and talking to people about Islam.
+I started to adhere to the teachings of Islam, and I realized that the Muslim is a mirror of his religion in front of non-Muslims. Alhamdulillah, Allah used me to guide 21 students at my university. I remember I was talking to Islamic preacher Siraj Wahhaj and told him "I think I am not a good enough Muslim; God has guided only 21 men through me." He looked at me in astonishment and said "21? It's a good number". We were going to houses, knocking on doors and talking to people about Islam.
