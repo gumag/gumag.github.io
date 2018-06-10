@@ -1,12 +1,11 @@
 ---
-
 howIfoundThis: "ggle srch ar"
 
 sources: "alukah.net/world_muslims/0/74499/"
 
 description: "He was addicted to drugs and joined gangs. Then God opened his heart to Islam"
 
-title: Wayne Bennett
+title: "Wayne Bennett: From Drummer and Drug Addict to Inviting People to Islam"
 
 title2: "21 young Americans accepted Islam at his hands"
 
@@ -16,8 +15,7 @@ og_image: "sailor.jpg"
 
 header:
   image:  "sailor.jpg"
-  teaser: "sailor.jpg"
-  
+  teaser: "sailor.jpg"  
 ---
 
 The story of Wayne Bennett is a vivid embodiment of one of Prophet Muhammad's hadeeths, where he confirms that when God wants something He makes easy ways for it. This young man was born and raised in a Christian environment, and moved between churches in search for psychological stability. At one point in his life he was addicted to drugs and joined gangs. Then God opened his heart to Islam, and sent his way someone who showed him the light of guidance. Suffice to say that 21 young Americans accepted Islam at his hands.
