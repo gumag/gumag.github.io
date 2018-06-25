@@ -3,7 +3,7 @@ howIfoundThis: "ggle srch ar"
 
 sources: "alukah.net/world_muslims/0/74499/"
 
-description: "He was addicted to drugs and joined gangs. Then God opened his heart to Islam"
+description: "He was a gangster addicted to drugs. Then God opened his heart to Islam"
 
 title: "Wayne Bennett: From Drummer and Drug Addict to Inviting People to Islam"
 
