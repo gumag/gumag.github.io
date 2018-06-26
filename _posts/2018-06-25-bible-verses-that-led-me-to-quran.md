@@ -44,7 +44,7 @@ In Q, Jesus endorses a rigorous monotheism.
 
 > Get thee behind me, Satan: For it is written, 'Thou shalt worship the Lord thy God, and him only shalt thou serve.' (Luke 4:8)
 
- **Compare: **
+ Compare:
 
 > **Children of Adam, did We not command you not to worship Satan? He was your sworn enemy. Did We not command you to worship Me and tell you that this is the straight path?** (Quran 36:60-61)
 
@@ -54,7 +54,7 @@ Q identifies a right path that is often difficult, a path that unbelievers will 
 
 > Enter ye in through the narrow gate. For wide is the gate, and broad is the way that leadeth to destruction and many there are who go in there. Narrow is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matthew 7:13-14)
 
- **Compare: **
+ Compare:
 
 > The worldly life is made to seem attractive to the disbelievers who scoff at the faithful, but the pious, in the life Hereafter, will have a position far above them … (Quran, 2:212)
 
@@ -64,7 +64,7 @@ Q warns us to fear only the judgment of God.
 
 > And I say unto you, my friends, Be not afraid of them that kill the body, and after that have no more that they can do. But I will forewarn you whom ye shall fear. Fear Him, which after He hath killed, hath the power to cast into Hell. Yea, I say unto you, fear Him! (Luke 12:4-5)
 
- **Compare:**
+ Compare:
 
 > To Him belongs all that is in the heavens and the earth. God 's retribution is severe. Should you then have fear of anyone other than God? (Quran 16:52)
 
@@ -74,7 +74,7 @@ In Q, Jesus warns humanity plainly that earthly advantages and pleasures should 
 
 > But woe unto you that are rich! For you have received your consolation. Woe unto you who are full! You shall be hungry. Woe unto you who laugh now! You shall weep and mourn. (Luke 6:24)
 
- **Compare:**
+ Compare:
 
 > The desire to have increase of worldly gains has preoccupied you so much (that you have neglected the obligation of remembering God) - until you come to your graves! You shall know… (Quran, 102:1-8)
 
